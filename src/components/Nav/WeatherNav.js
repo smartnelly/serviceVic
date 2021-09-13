@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
-import "./Weathernav.css";
+import "./WeatherNav.css";
 
 const baseUrl = "https://api.openweathermap.org/data/2.5";
-const apiKey = "d3e238ced3e15356c1c6acb557b2bc2f";
+const apiKey = "6410c52bfcdfdfea3c892dda7d405055";
 
 function Weathernav() {
   const [lat, setLat] = useState("");

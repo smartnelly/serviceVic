@@ -11,6 +11,7 @@
     "react-dom": "^17.0.2",
     "react-open-weather": "^1.1.5",
     "react-scripts": "4.0.3",
+    "react-social-icons": "^5.6.1",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
