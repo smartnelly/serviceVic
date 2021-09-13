@@ -1,71 +1,70 @@
-# Getting Started with Create React App
+# Service VIC Code Test
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a code test from [Service VIC](https://service.vic.gov.au/)
 
-## Available Scripts
+## Main Code
 
-In the project directory, you can run:
+- `LIVE VSCode`(now way to read code without `git clone` or `down`)
+  https://github1s.com/smartnelly/serviceVic
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Search cities functionality
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+2. Current local weather
 
-### `npm test`
+3. Australian major city Temperatures
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4. Responsive Web Design
 
-### `npm run build`
+## Run Code
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- `npm install`
+- `npm run build`
+- `npm start`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Code Test Description
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Front End - React Coding Exercise
 
-### `npm run eject`
+Use `Create-React-App` to build a weather app, displaying the current weather conditions of Australia’s major capital cities.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Tasks:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Display the name of the city, current temperature and conditions, in a user-friendly responsive UI.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Retrieve the data using the OpenWeather API: https://openweathermap.org/current
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Tech Stack:
 
-## Learn More
+Feel free to use whatever packages you feel are necessary but please incorporate the use of:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Typescript (if possible)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Use of state management
 
-### Code Splitting
+- React styling methodology
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Please avoid using any UI frameworks for this task. (e.g. Bootstrap, Material UI etc)
 
-### Analyzing the Bundle Size
+When creating this project use the techniques you think is best suited and keep in mind:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Best coding practices
 
-### Making a Progressive Web App
+- Scalability
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Reliability
 
-### Advanced Configuration
+- Reusability
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Responsiveness
 
-### Deployment
+- Performance
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Contributions
 
-### `npm run build` fails to minify
+Any feature requests and pull requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# serviceVic
+## License
+
+The project is under [MIT license](https://choosealicense.com/licenses/mit/).
