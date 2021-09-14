@@ -2,6 +2,7 @@
 
 This project is a code test from [Service VIC](https://service.vic.gov.au/)
 
+<img src= "public/ScreenShot.png">
 ## Main Code
 
 - `LIVE VSCode`(now way to read code without `git clone` or `down`)
